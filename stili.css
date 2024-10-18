@@ -1,1 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+form {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#classifica div {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
 
